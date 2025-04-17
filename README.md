@@ -66,6 +66,6 @@ Contributions are welcome! If you’d like to enhance this project:
 This project is open-source and licensed under the MIT License.  
 
  🔗 **Connect with Me**  
-📧 **Email:** deviprabhas2005@gmail.com  
-🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/sdeviprabha/)  
+📧 **Email:** ditturaj05@gmail.com
+🔗 **LinkedIn:** [My Profile](www.linkedin.com/in/divya-rajendran-5a1396296)  
 
